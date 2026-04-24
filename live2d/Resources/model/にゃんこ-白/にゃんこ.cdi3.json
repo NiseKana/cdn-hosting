@@ -1,0 +1,389 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "角度 Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "角度 Z"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "左目　開閉"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "右目　開閉"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "呼吸"
+		},
+		{
+			"Id": "ParamArm2",
+			"GroupId": "",
+			"Name": "うで揺れ手動"
+		},
+		{
+			"Id": "ParamEmote",
+			"GroupId": "ParamGroup3",
+			"Name": "通常表情"
+		},
+		{
+			"Id": "ParamModeCange",
+			"GroupId": "ParamGroup3",
+			"Name": "モードチェンジ"
+		},
+		{
+			"Id": "ParamModeCange2",
+			"GroupId": "ParamGroup3",
+			"Name": "MP4出力"
+		},
+		{
+			"Id": "ParamEffect1",
+			"GroupId": "ParamGroup3",
+			"Name": "エフェクト表示"
+		},
+		{
+			"Id": "ParamEffect2",
+			"GroupId": "ParamGroup3",
+			"Name": "エフェクト表示2"
+		},
+		{
+			"Id": "ParamEffect3",
+			"GroupId": "ParamGroup3",
+			"Name": "エフェクト表示3"
+		},
+		{
+			"Id": "ParamBreathYure",
+			"GroupId": "ParamGroup2",
+			"Name": "呼吸揺れ"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "ParamGroup2",
+			"Name": "髪揺れ　前"
+		},
+		{
+			"Id": "ParamHairFront2",
+			"GroupId": "ParamGroup2",
+			"Name": "髪揺れ　前2"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "ParamGroup2",
+			"Name": "髪揺れ　横"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "ParamGroup2",
+			"Name": "髪揺れ　後"
+		},
+		{
+			"Id": "ParamHairBack2",
+			"GroupId": "ParamGroup2",
+			"Name": "髪揺れ　後2"
+		},
+		{
+			"Id": "ParamHairBack3",
+			"GroupId": "ParamGroup2",
+			"Name": "髪揺れ　後3"
+		},
+		{
+			"Id": "ParamArm",
+			"GroupId": "ParamGroup2",
+			"Name": "うで揺れ"
+		},
+		{
+			"Id": "ParamEmote1",
+			"GroupId": "ParamGroup",
+			"Name": "表情変更＞ω＜"
+		},
+		{
+			"Id": "ParamEmote4",
+			"GroupId": "ParamGroup",
+			"Name": "表情変更ーωー"
+		},
+		{
+			"Id": "ParamJitome",
+			"GroupId": "ParamGroup",
+			"Name": "表情変更 ジト目"
+		},
+		{
+			"Id": "ParamMouthOpen",
+			"GroupId": "ParamGroup",
+			"Name": "くち閉じ固定"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "ParamGroup",
+			"Name": "口　開閉"
+		},
+		{
+			"Id": "ParamOshaburi",
+			"GroupId": "ParamGroup",
+			"Name": "おしゃぶり追加"
+		},
+		{
+			"Id": "ParamTeaCup",
+			"GroupId": "ParamGroup",
+			"Name": "ティーカップ"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "ParamGroup",
+			"Name": "口　変形"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "ParamGroup",
+			"Name": "左目　笑顔"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "ParamGroup",
+			"Name": "右目　笑顔"
+		},
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "角度 X"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "ParamGroup",
+			"Name": "目玉 Y"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　上下"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　上下"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　左右"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　左右"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　角度"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　角度"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "ParamGroup",
+			"Name": "左眉　変形"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "ParamGroup",
+			"Name": "右眉　変形"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "ParamGroup",
+			"Name": "照れ"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "ParamGroup",
+			"Name": "体の回転　X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "ParamGroup",
+			"Name": "体の回転　Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "ParamGroup",
+			"Name": "体の回転　Z"
+		}
+	],
+	"ParameterGroups": [
+		{
+			"Id": "ParamGroup3",
+			"GroupId": "",
+			"Name": "差分"
+		},
+		{
+			"Id": "ParamGroup2",
+			"GroupId": "",
+			"Name": "揺れパラメータ"
+		},
+		{
+			"Id": "ParamGroup",
+			"GroupId": "",
+			"Name": "不要パラメータ"
+		}
+	],
+	"Parts": [
+		{
+			"Id": "Part47",
+			"Name": "にゃんこ白.psd（対応無し）"
+		},
+		{
+			"Id": "Part45",
+			"Name": "にゃんこ白.psd（対応無し）"
+		},
+		{
+			"Id": "Part36",
+			"Name": "にゃんこ.psd"
+		},
+		{
+			"Id": "Part2",
+			"Name": "キャラモーションデータ"
+		},
+		{
+			"Id": "Part8",
+			"Name": "にゃんこ"
+		},
+		{
+			"Id": "Part7",
+			"Name": "にゃんこ"
+		},
+		{
+			"Id": "Part14",
+			"Name": "つかまりにゃんこ"
+		},
+		{
+			"Id": "Part23",
+			"Name": "すやすやにゃんこ"
+		},
+		{
+			"Id": "Part28",
+			"Name": "ななめにゃんこ"
+		},
+		{
+			"Id": "Part32",
+			"Name": "正面にゃんこ"
+		},
+		{
+			"Id": "Part15",
+			"Name": "入れ物セット"
+		},
+		{
+			"Id": "Part9",
+			"Name": "共通表情"
+		},
+		{
+			"Id": "Part4",
+			"Name": "表情"
+		},
+		{
+			"Id": "Part3",
+			"Name": "あたま"
+		},
+		{
+			"Id": "Part6",
+			"Name": "からだ"
+		},
+		{
+			"Id": "Part27",
+			"Name": "ねこセット"
+		},
+		{
+			"Id": "Part",
+			"Name": "後ろ髪"
+		},
+		{
+			"Id": "Part17",
+			"Name": "追加装飾セット"
+		},
+		{
+			"Id": "Part19",
+			"Name": "にゃんこ"
+		},
+		{
+			"Id": "Part24",
+			"Name": "追加装飾セット"
+		},
+		{
+			"Id": "Part25",
+			"Name": "にゃんこ"
+		},
+		{
+			"Id": "Part29",
+			"Name": "追加装飾セット"
+		},
+		{
+			"Id": "Part30",
+			"Name": "にゃんこ"
+		},
+		{
+			"Id": "Part33",
+			"Name": "追加装飾セット"
+		},
+		{
+			"Id": "Part34",
+			"Name": "にゃんこ"
+		},
+		{
+			"Id": "Part18",
+			"Name": "ジト目セット"
+		},
+		{
+			"Id": "Part16",
+			"Name": "ジト目追加セット"
+		},
+		{
+			"Id": "Part5",
+			"Name": "R"
+		},
+		{
+			"Id": "Part10",
+			"Name": "L"
+		},
+		{
+			"Id": "Part22",
+			"Name": "閉じくち"
+		},
+		{
+			"Id": "Part21",
+			"Name": "開けくち"
+		},
+		{
+			"Id": "Part20",
+			"Name": "表情セット"
+		},
+		{
+			"Id": "Part26",
+			"Name": "表情セット"
+		},
+		{
+			"Id": "Part31",
+			"Name": "表情セット"
+		},
+		{
+			"Id": "Part35",
+			"Name": "表情セット"
+		}
+	]
+}
